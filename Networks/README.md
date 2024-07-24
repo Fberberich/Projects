@@ -1,3 +1,7 @@
-Using Cisco Packet Tracer, setup a network of 4 routers using static routes with IPv6 & IPv4 to communicate with each other 
+Here are some example labs that I have completed and helped students with as a Networking lab assisstant.
 
-Also setup a network of 4 routers that uses OSPFv2 with IPv4 to communicate with each other  
+The files found in this repository I created from Cisco Packet Tracer.
+
+They each cover configuring static routing across 4 routers that connects multiple networks. One file uses IPv6 for its static routes and the other uses IPv4.  
+
+There's another file that covers configuring OSPFv2 using IPv4 across 4 routers that allows the different networks to communicate with each other.
